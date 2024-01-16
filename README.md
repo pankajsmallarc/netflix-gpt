@@ -7,6 +7,7 @@ install and configure tailwind css
       - redirect to 
 - Browse
      - Header
+     - Login form
      - Main Movie
            - Trailer in background
            - Title & Description
